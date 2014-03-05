@@ -17,7 +17,7 @@ int main(void)
 	int opp, num;
 	while(1)
 	{
-		printf("请选择您要执行的操作：\n1、插入		2、中序遍历		3、退出\n");
+		printf("请选择您要执行的操作：\n1、插入		2、先序遍历		3、退出\n");
 		scanf("%d", &opp);
 		switch(opp)
 		{
